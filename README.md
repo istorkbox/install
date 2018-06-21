@@ -1,7 +1,7 @@
 # install
 Quick Install Link
 
-- `wget https://github.com/istorkbox/install/raw/master/centos7_jdk8.sh && sh centos7_jdk8.sh;``
+- `wget https://github.com/istorkbox/install/raw/master/centos7_jdk8.sh && sh centos7_jdk8.sh;`
 
 - `wget https://github.com/istorkbox/install/raw/master/centos7_git.sh && sh centos7_git.sh;`
 
