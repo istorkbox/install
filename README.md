@@ -1,2 +1,2 @@
 # install
-Quick Install
+Quick Install Link
